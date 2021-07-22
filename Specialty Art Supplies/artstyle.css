@@ -1,0 +1,113 @@
+@charset "UTF-8";
+
+body {
+  font-family: serif;
+  font-size: 100%;
+  line-height: 175%;
+  margin: 0 15% 0;
+  text-align: center;
+}
+header {
+  margin-top: 0;
+  padding: 3em 1em 2em 1em;
+  text-align: center;
+  background: url(images/purpledot.png) center top repeat-x;
+}
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+
+}
+a {
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+
+}
+a:link {
+  color: #69C8BD;
+}
+a:visited {
+  color: #386E83;
+}
+a:focus, a:hover {
+  color: #78DDD1;
+}
+a:active {
+  color: #54EFDC;
+}
+h1 {
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Reem Kufi', sans-serif;
+  font-weight: normal;
+  margin-top: 30px;
+  color: #565656;
+}
+h2 {
+  font-size: 1em;
+  font-family: 'Reem Kufi', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: .5em;
+  text-align: center;
+  color: #d1633c;
+}
+h3 {
+  font-family: 'Reem Kufi', sans-serif;
+  font-size: 25px;
+  color: #565656;
+
+}
+dt {
+  font-weight: bold;
+}
+strong {
+  font-style: italic;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+td {
+  font-family: 'Montserrat', sans-serif;
+  padding: 1em;
+  text-align: center;
+  font-size: 15px;
+}
+
+th {
+  font-family: 'Reem Kufi', sans-serif;
+  padding: 1em;
+  text-align: center;
+  font-size: 25px;
+  color: #565656;
+
+}
+table {
+
+}
+footer {
+  font-family: 'Reem Kufi', sans-serif;
+  border-top: 2px solid #d1633c;
+  text-align: center;
+  padding-top: 1em;
+  color: #565656;
+}
+footer img {
+  width: 40px;
+  height: 40px;
+  margin-left: .5em;
+  margin-right: .5em;
+}
+
+dt {
+  font-family: 'Reem Kufi', sans-serif;
+  color: #d1633c;
+
+}
+dd {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+
+}
