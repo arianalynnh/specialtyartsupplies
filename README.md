@@ -1,1 +1,1 @@
-# specialtyartsupplies
+permalink: /index.html
